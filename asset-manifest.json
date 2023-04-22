@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/remine_india/static/css/main.2e4e3b0e.css",
-    "main.js": "/remine_india/static/js/main.bd2435a6.js",
+    "main.js": "/remine_india/static/js/main.37ba650f.js",
     "static/js/787.0ea79ced.chunk.js": "/remine_india/static/js/787.0ea79ced.chunk.js",
     "static/media/bg3.png": "/remine_india/static/media/bg3.501a2eb489e70eea714c.png",
     "static/media/om.png": "/remine_india/static/media/om.340ddaad6d689d7ef0de.png",
@@ -10,11 +10,11 @@
     "static/media/bg.png": "/remine_india/static/media/bg.8115f35168c0dbfd75d2.png",
     "index.html": "/remine_india/index.html",
     "main.2e4e3b0e.css.map": "/remine_india/static/css/main.2e4e3b0e.css.map",
-    "main.bd2435a6.js.map": "/remine_india/static/js/main.bd2435a6.js.map",
+    "main.37ba650f.js.map": "/remine_india/static/js/main.37ba650f.js.map",
     "787.0ea79ced.chunk.js.map": "/remine_india/static/js/787.0ea79ced.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2e4e3b0e.css",
-    "static/js/main.bd2435a6.js"
+    "static/js/main.37ba650f.js"
   ]
 }
